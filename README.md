@@ -16,10 +16,10 @@
 			//如果北京时间为0-7；则伦敦标准时是北京时间-8+24，，如果北京时间大于7，则直接减去8即可；
 			Scanner in = new Scanner(System.in);
 			System.out.print("请输入北京时间，本程序将会帮你换算为伦敦标准时:");
-			int BJT = in.nextInt();//input Beijing Time
-			int UTC = 0; //London Time
-			int h = BJT/100; //Hour
-			int min = BJT%100; //min
+			int BJT = in.nextInt();
+			int UTC = 0; 
+			int h = BJT/100;
+			int min = BJT%100;
 			if(h>7){
 				UTC=(h-8)*100+min;
 			}else{
