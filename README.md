@@ -2,7 +2,7 @@
 
 I am a Java learner, This repository just a storage of my exercise code.
 
-This code is my first Java exercise, just change BJT to UTC.
+20170106 This code is my first Java exercise, just change BJT to UTC.
 
 	package hello;
 	
