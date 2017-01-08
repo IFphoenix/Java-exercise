@@ -20,6 +20,8 @@ I am a Java learner, This repository just a storage of my exercise code.
 
 //20170107//Java_Code_GPSSignal;
 
+//20170108//Java_Code_Factored;
 
+//20170108//Java_Code_Ends;
 
 
