@@ -24,4 +24,6 @@ I am a Java learner, This repository just a storage of my exercise code.
 
 //20170108//Java_Code_Ends;
 
+//20170108//FractionMain;
+
 
