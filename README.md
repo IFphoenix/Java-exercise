@@ -26,4 +26,8 @@ I am a Java learner, This repository just a storage of my exercise code.
 
 //20170108//FractionMain;
 
+//20170126//Clock;
+
+//20170127//distance;
+
 
